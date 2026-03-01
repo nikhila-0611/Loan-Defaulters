@@ -1,0 +1,31 @@
+Age,Occupation,MaritalStatus,Dependents,ResidentialStatus,AddressDuration,CreditScore,IncomeLevel,LoanAmountRequested,LoanTerm,PurposeoftheLoan,Collateral,InterestRate,PreviousLoans,ExistingLiabilities,ApplicationBehavior,LocationofApplication,ChangeinBehavior,TimeofTransaction,AccountActivity,PaymentBehavior,Blacklists,EmploymentVerification,PastFinancialMalpractices,DeviceInformation,SocialMediaFootprint,ConsistencyinData,Referral
+22,Artist,Single,1,Rent,1,821,2574,32622,17,personal,No,4.5,1,0,Normal,Local,No,02:00,Unusual,On-time,No,Verified,No,Mobile,No,Consistent,Online
+22,Software Developer,Single,0,Own,62,679,35078,2000,11,auto,No,5.2,2,4886,Normal,Local,No,03:00,Normal,On-time,No,Verified,No,Desktop,No,Inconsistent,Online
+29,Retired,Single,1,Own,14,799,39309,26084,20,personal,No,4.9,1,0,Normal,Unusual,No,11:50,Normal,Late,No,Verified,No,Desktop,No,Inconsistent,Online
+45,Doctor,Divorced,4,Own,1,830,150000,2000,11,home,No,4.5,2,0,Normal,Local,Yes,14:40,Normal,Late,No,Verified,No,Desktop,No,Consistent,Referral
+56,Chef,Single,4,Own,24,830,843,26799,3,home,Yes,4.5,2,2802,Normal,Local,No,11:50,Normal,On-time,No,Verified,No,Desktop,No,Consistent,Online
+32,Retired,Single,1,Own,1,830,82921,11171,5,auto,No,4.5,1,2177,Normal,Local,No,09:40,Unusual,On-time,No,Verified,No,Mobile,No,Inconsistent,Online
+56,Manager,Divorced,2,Own,39,803,16935,300000,30,home,Yes,4.7,2,6815,Normal,Local,Yes,10:50,Normal,On-time,No,Verified,No,Desktop,Yes,Consistent,Referral
+56,Technician,Single,0,Rent,3,830,54642,4787,25,home,Yes,5.2,4,3181,Rapid,Local,No,09:00,Normal,On-time,No,Verified,No,Desktop,Yes,Consistent,Online
+56,Accountant,Divorced,4,Own,224,830,39942,300000,1,home,Yes,4.5,1,7000,Normal,Local,No,15:30,Normal,On-time,No,Verified,No,Desktop,No,Consistent,Referral
+22,Clerk,Single,0,Rent,48,654,3042,71795,22,education,No,5.1,1,3983,Normal,Unusual,No,09:00,Unusual,On-time,No,Verified,No,Desktop,Yes,Inconsistent,Online
+46,Engineer,Married,0,Own,55,830,39726,47331,4,home,No,5.1,2,2732,Rapid,Local,No,03:00,Normal,On-time,No,Not Verified,No,Mobile,No,Consistent,Online
+23,Entrepreneur,Married,4,Own,189,830,41336,57806,3,medical,Yes,4.5,3,6070,Rapid,Local,Yes,09:30,Normal,Late,No,Verified,No,Desktop,No,Consistent,Referral
+55,Doctor,Divorced,0,Own,187,830,53599,300000,15,home,Yes,6.1,2,5023,Normal,Local,No,12:45,Normal,On-time,No,Verified,No,Desktop,Yes,Consistent,Referral
+22,Teacher,Single,4,Rent,16,830,43276,37562,8,personal,No,4.5,1,368,Normal,Local,No,10:20,Normal,On-time,No,Verified,No,Laptop,No,Consistent,Online
+23,Manager,Single,1,Own,1,830,59808,75023,27,home,No,4.5,1,632,Normal,Local,Yes,10:20,Normal,On-time,No,Verified,No,Desktop,No,Consistent,Online
+24,Technician,Single,0,Rent,92,830,96900,58036,1,travel,No,6.5,2,0,Rapid,Unusual,No,12:45,Normal,Late,No,Verified,No,Mobile,No,Inconsistent,Online
+22,Accountant,Single,1,Rent,1,602,0,2000,3,auto,No,4.5,2,4739,Rapid,Local,No,09:00,Normal,Late,No,Not Verified,No,Laptop,No,Inconsistent,Online
+56,Technician,Single,0,Rent,48,640,3617,2000,1,auto,No,4.5,1,3717,Normal,Unusual,No,13:30,Normal,On-time,No,Verified,No,Desktop,No,Inconsistent,Online
+22,Designer,Single,1,Rent,86,715,6661,2000,1,personal,No,4.7,2,4833,Normal,Unusual,No,03:00,Unusual,Defaulted,No,Not Verified,No,Mobile,No,Inconsistent,Online
+40,Software Developer,Single,3,Own,76,801,0,59702,12,personal,No,4.7,4,5171,Normal,Unusual,No,13:30,Normal,On-time,No,Verified,No,Desktop,Yes,Inconsistent,Online
+22,Engineer,Single,1,Rent,73,765,41559,67984,1,auto,No,4.5,0,2802,Normal,Unusual,No,01:00,Normal,On-time,No,Verified,No,Desktop,No,Inconsistent,Online
+36,Accountant,Single,0,Own,92,720,29974,30306,22,home,No,4.6,2,4365,Normal,Local,No,16:30,Normal,On-time,No,Verified,No,Desktop,No,Consistent,Online
+22,Accountant,Single,1,Rent,90,659,28003,2000,21,personal,No,5.2,2,4748,Normal,Unusual,No,02:00,Unusual,Defaulted,No,Not Verified,Yes,Mobile,No,Inconsistent,Online
+22,Engineer,Single,1,Rent,41,795,15309,2000,1,auto,No,4.8,0,3737,Normal,Unusual,No,15:40,Unusual,Defaulted,Yes,Not Verified,No,Mobile,No,Inconsistent,Online
+24,Manager,Single,1,Own,83,761,47258,69114,6,home,No,5.6,0,0,Rapid,Local,No,12:00,Normal,On-time,No,Verified,No,Mobile,No,Consistent,Online
+22,Doctor,Divorced,0,Own,37,830,68339,36646,4,personal,No,4.5,1,3815,Normal,Local,No,14:00,Normal,On-time,No,Not Verified,No,Desktop,Yes,Consistent,Online
+28,Self-employed,Single,1,Rent,68,736,11114,41581,1,auto,No,5.0,0,4095,Normal,Unusual,No,02:00,Normal,On-time,Yes,Not Verified,No,Mobile,No,Inconsistent,Online
+22,Technician,Single,0,Own,88,627,6692,62698,5,auto,No,6.0,0,4575,Normal,Unusual,No,16:00,Normal,Late,No,Verified,No,Mobile,No,Inconsistent,Online
+22,Musician,Single,0,Rent,78,691,10646,55832,4,personal,No,4.5,1,3389,Rapid,Unusual,No,09:40,Unusual,Defaulted,Yes,Not Verified,No,Mobile,No,Inconsistent,Online
+22,Unemployed,Single,1,Rent,85,818,7470,2000,1,personal,No,4.5,1,5238,Normal,Unusual,No,11:00,Unusual,Defaulted,No,Not Verified,No,Mobile,No,Inconsistent,Online
